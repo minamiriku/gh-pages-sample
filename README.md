@@ -1,2 +1,3 @@
 # gh-pages-sample
-vue.jsによるTODOリストの作成
+・概要
+vue.jsによるTODOリスト
